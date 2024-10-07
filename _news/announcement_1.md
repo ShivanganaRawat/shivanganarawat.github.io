@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-08-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined as a Master's by Research student in the [Computer Science](https://www.cse.iith.ac.in/) department at [IIT Hyderabad](https://www.iith.ac.in/). Extremely fortunate to be advised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/).
